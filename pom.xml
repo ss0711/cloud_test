@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>kyun3</module>
+        <module>ksyun</module>
         <module>ucloud</module>
         <module>qingyun</module>
     </modules>
